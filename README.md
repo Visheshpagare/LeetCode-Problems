@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
