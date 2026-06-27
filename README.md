@@ -67,4 +67,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
