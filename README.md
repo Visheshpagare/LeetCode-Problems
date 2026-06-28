@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
