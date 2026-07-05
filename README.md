@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
