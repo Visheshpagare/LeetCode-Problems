@@ -84,6 +84,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -105,6 +107,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
