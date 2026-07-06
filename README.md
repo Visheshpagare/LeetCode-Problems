@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Stack
@@ -87,6 +89,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
@@ -161,12 +164,14 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
