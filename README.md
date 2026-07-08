@@ -21,6 +21,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -47,6 +49,7 @@
 | [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -81,11 +84,13 @@
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -210,4 +215,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
