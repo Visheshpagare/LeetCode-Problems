@@ -23,6 +23,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
