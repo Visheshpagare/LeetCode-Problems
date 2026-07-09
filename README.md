@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0091-decode-ways](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
