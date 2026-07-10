@@ -119,6 +119,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -129,6 +130,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -230,8 +232,13 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
