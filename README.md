@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [0100-same-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -126,6 +128,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -205,6 +208,7 @@
 | [0054-spiral-matrix](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +225,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
