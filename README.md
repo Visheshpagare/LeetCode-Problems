@@ -56,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@
 | [0133-clone-graph](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -240,6 +242,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Topological Sort
 |  |
 | ------- |
@@ -248,4 +251,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
