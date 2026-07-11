@@ -114,6 +114,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -127,6 +128,7 @@
 | [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Two Pointers
 |  |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Union-Find
 |  |
 | ------- |
