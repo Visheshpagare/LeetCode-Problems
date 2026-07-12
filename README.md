@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0152-maximum-product-subarray](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
@@ -194,6 +196,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 ## String Matching
 |  |
 | ------- |
