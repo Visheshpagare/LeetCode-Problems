@@ -68,6 +68,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0322-coin-change](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
