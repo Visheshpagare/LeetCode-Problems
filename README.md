@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0338-counting-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
