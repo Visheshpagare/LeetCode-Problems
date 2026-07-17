@@ -71,6 +71,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -140,6 +141,7 @@
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -168,6 +171,7 @@
 | [0200-number-of-islands](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Tree
@@ -182,6 +186,7 @@
 | [0226-invert-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Two Pointers
 |  |
@@ -308,6 +313,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
