@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0048-rotate-image) |
@@ -196,6 +197,7 @@
 | [0011-container-with-most-water](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0143-reorder-list) |
