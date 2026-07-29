@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
