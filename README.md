@@ -68,6 +68,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0091-decode-ways) |
@@ -108,6 +109,7 @@
 | [0048-rotate-image](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -223,6 +225,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
