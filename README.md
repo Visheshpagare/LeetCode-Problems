@@ -110,6 +110,7 @@
 | [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
