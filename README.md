@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
@@ -127,6 +128,7 @@
 | [0062-unique-paths](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0139-word-break) |
