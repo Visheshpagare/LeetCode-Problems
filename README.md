@@ -132,6 +132,7 @@
 | [0069-sqrtx](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
@@ -348,6 +349,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -429,4 +431,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
