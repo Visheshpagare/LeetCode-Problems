@@ -141,6 +141,7 @@
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
@@ -317,6 +318,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Visheshpagare/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## String Matching
 |  |
 | ------- |
